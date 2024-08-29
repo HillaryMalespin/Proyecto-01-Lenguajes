@@ -5,4 +5,7 @@
 
 void importar_datos(const char *ruta_archivo, Venta **ventas, int *total_ventas);
 
+int contar_objetos_json(const char *ruta_archivo);
+
+
 #endif
