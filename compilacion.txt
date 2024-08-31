@@ -1,0 +1,1 @@
+gcc main.c importar.c procesar.c analizar.c analizarTemporal.c estadisticas.c guardar.c estadisticasPDF.c -o mi_programa -lhpdf -lcjson
