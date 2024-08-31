@@ -1,6 +1,7 @@
 #ifndef VENTA_H
 #define VENTA_H
 
+//Estructura de venta
 typedef struct {
     int venta_id;
     char fecha[11];  // formato yyyy-mm-dd
